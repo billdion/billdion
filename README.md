@@ -1,4 +1,4 @@
-### Hi there 👋
+<p><em>Embedded/Full-Stack Developper at <a href="https://www.sbquantum.com">SB Quantum</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
 **billdion/billdion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
