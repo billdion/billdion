@@ -1,6 +1,4 @@
-<p><em>Space engineering intern at CSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
-I’m currently working on iOS developpement at home with personal projects. See <a href="https://apps.apple.com/ca/app/beacon-transmitter/id1576066266">my app</a> on the App Store! 🔭 
+<p>Software Engineer, IREQ - Hydro-Québec <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
 **billdion/billdion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
